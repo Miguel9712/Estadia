@@ -27,7 +27,3 @@ Developed by Salesforce AI Research, publicly released on Hugging Face.
 Modified OCR Version: Adaptation and fine-tuning for enhanced OCR capabilities by Miguel Ángel Sánchez Piña.
 
 Datasets: Training and fine-tuning leveraged publicly available datasets for OCR and image understanding tasks.
-
-## Acknowledgements
-
-Special thanks to the Hugging Face community and Salesforce AI Research for their open-source contributions, my teachers and friends which made this work possible.
