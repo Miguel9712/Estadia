@@ -20,7 +20,6 @@ The repository is organized into multiple branches to separate different parts o
 
 - **`main`** – This branch (you are here) contains the main README and project documentation.
 - **`showcase`** – Demonstrations, example runs, and showcases of both models.
-- **`model-tests`** – Experiments, evaluation scripts, and test results.
 - **`ocr-model`** – Complete codebase for the OCR fine-tuned model.
 - **`medical-qa`** – Complete codebase for the Medical Q&A model.
 ## 📄 License
